@@ -72,3 +72,5 @@ C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\sportsstore\bin\Debug\net7
 C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\sportsstore\obj\Debug\net7.0\SportsStore.csproj.AssemblyReference.cache
 C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\SportsStore\obj\Debug\net7.0\SportsStore.sourcelink.json
 C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\SportsStore\obj\Debug\net7.0\SportsSt.D81B86A7.Up2Date
+C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\SportsStore\bin\Debug\net7.0\libman.json
+C:\Users\Henrique.Pereira\Desktop\dev\teste\SportsSln\SportsStore\bin\Debug\net7.0\SportsStore.staticwebassets.runtime.json
